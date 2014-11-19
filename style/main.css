@@ -100,7 +100,7 @@ a:hover                        { text-decoration:none; }
 .footer {
     background-color: #808080;
     text-align: left;
-    clear: left;
+    clear: both;
 }
 .footer-item {
     font-size: 50px;
